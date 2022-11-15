@@ -3,7 +3,7 @@ Circuit board based on STM303RBT6 microcontroller, made using Kicad v6
 
 ## Footage
 
-![](./Footage/94a1b47f-d07e-4b47-b264-c9a9f120ba18.jfif)
+![](./Footage/Analog_reader_archtecture.jpeg)
 ![](./Footage/Schematic.jpg)
 ![](./Footage/power_circuit.jpg)
 ![](./Footage/power_closeup.jpg)
